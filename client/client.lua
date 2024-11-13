@@ -1,5 +1,3 @@
-Core = exports.vorp_core:GetCore()
-
 local traps = {
     [1] = { coords = vector3(1326.0380859375, -1326.38330078125, 76.91000366210938), isOpen = false, entity = nil, model = "" },  -- Rhodes Gunsmith trapdoor
 	[2] = { coords = vector3(2858.86279296875, -1194.91650390625, 47.9914436340332), isOpen = false, entity = nil, model = "" },
